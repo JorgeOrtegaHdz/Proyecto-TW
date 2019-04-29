@@ -1,0 +1,32 @@
+<?
+include("games/contadorgames.php");
+?>
+
+<HTML>
+
+	<HEAD>
+		<TITLE>Registro</TITLE>
+		<link rel="stylesheet" type="text/css" href="../estilo.css">
+	</HEAD>
+    
+    <BODY BGCOLOR="#6699CC">
+	<center>
+		<div style="width:700px; background:#CCCCCC;border:#000000 3px solid;text-align:left;margin:10px;padding-left:50px; padding-top:25px;">
+		<form method="post" action="ServletRegistro"><font face="Arial">	
+			Nombre <input type="text" name="nombre" id="nombre"/><BR/><BR/>
+			Apellidos <input type="text" name="apellidos" id="apellidos"/><br/><br/>
+			Nombre de Usuario <input type="text" name="alias" id="alias"/><br/><br/>
+			Contrasena <input type="password" name="contrasena" id="contrasena"><br/><br/>
+			Repetir contrasena <input type="password" name="contrasena2" id="contrasena2"><br/><br/>
+                        <br/><br/><br/><br/>
+			<input type="submit" value="Registrar"/>
+			<a href="Inicio">Cancelar</a>
+		</font></form>
+		
+		<div style="width:300px;height:10px;position:relative;left:350px;top:-300;font-family:Arial;text-align:center; font-size:20;">Completa todos los campos para registrarte en el sistema y poder comenzar discusiones y ayudar a otros compa�eros :) <br/> <br/> Al registrarte estas dispuesto a seguir las reglas establecidas y aceptas la correspondiente sancion en caso de no cumplirlas</div>
+		
+		</div><BR/>
+
+	</center>
+	</BODY>
+</HTML>

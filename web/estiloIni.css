@@ -1,0 +1,10 @@
+            body     {background-image: url(mar.jpg);}
+            .ini    {position: absolute;
+                    padding: 300px  200px 600px 600px;
+                    font-family: arial, helvetica, sans-serif;
+                    font-size: 18px;
+                    font-weight: bold}
+            #col    {color:black;}
+            .bor    {
+                    background-color: rgba(255, 255, 255, 0.5);
+                    }

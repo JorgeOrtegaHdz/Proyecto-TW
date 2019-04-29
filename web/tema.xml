@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proyecto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validadorTema.xsd">
+  <Tema>
+    <idTema>1</idTema>
+    <titulo>Elaboración de PCB</titulo>
+    <contenido>Comenten los métodos y consejos que tengan para elaborar un PCB</contenido>
+    <fecha>2015-12-20</fecha>
+    <idCategoria>1</idCategoria>
+    <idCreador>1</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>2</idTema>
+    <titulo>Sensores</titulo>
+    <contenido>Comenten los tipos de sensores que conozcan mencionando algún ejemplo</contenido>
+    <fecha>2015-12-20</fecha>
+    <idCategoria>1</idCategoria>
+    <idCreador>2</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>3</idTema>
+    <titulo>Integración</titulo>
+    <contenido>Comenten los métodos de integración que conozcan</contenido>
+    <fecha>2016-01-01</fecha>
+    <idCategoria>2</idCategoria>
+    <idCreador>2</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>4</idTema>
+    <titulo>Transformadas</titulo>
+    <contenido>Definan que es una transformación lineal y posteriormente comenten los principales errores que se encuentran al definirlas</contenido>
+    <fecha>2016-01-01</fecha>
+    <idCategoria>2</idCategoria>
+    <idCreador>1</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>5</idTema>
+    <titulo>AJAX</titulo>
+    <contenido>Comenten los métodos utilizados para implementar ajax y de ser posible complementen con su código</contenido>
+    <fecha>2016-01-01</fecha>
+    <idCategoria>3</idCategoria>
+    <idCreador>2</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>6</idTema>
+    <titulo>¿Javascript orientado a objetos?</titulo>
+    <contenido>Comenten sus argumentos del porqué Javascript es o no un lenguaje orientado a objetos, justificando adecuadamente los mismos</contenido>
+    <fecha>2016-01-01</fecha>
+    <idCategoria>3</idCategoria>
+    <idCreador>1</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>7</idTema>
+    <titulo>Definición de inteligencia</titulo>
+    <contenido>Comenten con la definición de lo que entiendan por inteligencia</contenido>
+    <fecha>2016-01-01</fecha>
+    <idCategoria>4</idCategoria>
+    <idCreador>2</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>8</idTema>
+    <titulo>Algoritmos de búsqueda</titulo>
+    <contenido>Comenten sus códigos para un algoritmo de búsqueda y el funcionamiento del mismo</contenido>
+    <fecha>2016-01-01</fecha>
+    <idCategoria>4</idCategoria>
+    <idCreador>1</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>9</idTema>
+    <titulo>Definición de SGBD</titulo>
+    <contenido>Comenten con la definición de lo que es y tiene que hacer un SGBD</contenido>
+    <fecha>2016-01-01</fecha>
+    <idCategoria>5</idCategoria>
+    <idCreador>2</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>10</idTema>
+    <titulo>Índices</titulo>
+    <contenido>Comenten con la descripción y funcionamiento de un tipo de índice y un ejemplo</contenido>
+    <fecha>2016-01-01</fecha>
+    <idCategoria>5</idCategoria>
+    <idCreador>1</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>11</idTema>
+    <titulo>Recursivo o Iterativo DFS</titulo>
+    <contenido>CuÃ¡l de los dos mÃ©todos es mejor para programar DFS? Iterativo o Recursivo?</contenido>
+    <fecha>2016-01-07</fecha>
+    <idCategoria>1</idCategoria>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+  </Tema>
+  <Tema>
+    <idTema>12</idTema>
+    <titulo>Recursivo o Iterativo DFS</titulo>
+    <contenido>CuÃ¡l de los dos mÃ©todos es mejor para programar DFS? Iterativo o Recursivo?</contenido>
+    <fecha>2016-01-07</fecha>
+    <idCategoria>4</idCategoria>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+  </Tema>
+</Proyecto>

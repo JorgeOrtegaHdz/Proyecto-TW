@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proyecto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validadorCategoria.xsd">
+  <Categoria>
+    <idCategoria>2</idCategoria>
+    <nombre>Matemáticas</nombre>
+  </Categoria>
+  <Categoria>
+    <idCategoria>3</idCategoria>
+    <nombre>Tecnologías Web</nombre>
+  </Categoria>
+  <Categoria>
+    <idCategoria>4</idCategoria>
+    <nombre>Inteligencia Artificial</nombre>
+  </Categoria>
+  <Categoria>
+    <idCategoria>5</idCategoria>
+    <nombre>Bases de datos</nombre>
+  </Categoria>
+</Proyecto>

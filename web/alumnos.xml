@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proyecto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validadorAlumno.xsd">
+	<Alumno>
+		<identificador>1</identificador>
+		<idUsuario>JorgeOrtega85</idUsuario>
+		<contraseña>30855476</contraseña>
+		<nombre>Jorge Ortega</nombre>
+	</Alumno>
+	<Alumno>
+		<identificador>2</identificador>
+		<idUsuario>Gerardin1</idUsuario>
+		<contraseña>303030J</contraseña>
+		<nombre>Gerardo Linares</nombre>
+	</Alumno>
+</Proyecto>

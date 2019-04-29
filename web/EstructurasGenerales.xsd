@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:include schemaLocation="TiposGenerales.xsd"/>
+	<xs:group name="datos">
+		<xs:sequence>
+			<xs:element ref="identificador"/>
+			<xs:element ref="idUsuario"/>
+			<xs:element ref="contraseña"/>
+			<xs:element ref="nombre"/>
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:group name="principal">
+		<xs:sequence>
+			<xs:element ref="titulo"/>
+			<xs:element ref="contenido"/>
+			<xs:element ref="fecha"/>
+		</xs:sequence>
+	</xs:group>
+	
+	<xs:element name="identificador" type="xs:integer"/>
+	<xs:element name="idUsuario" type="idUsuario"/>
+	<xs:element name="contraseña" type="pass"/>
+	<xs:element name="nombre" type="nombrePila"/>
+	
+	<xs:element name="idTema" type="xs:integer"/>
+	
+	<xs:element name="titulo" type="titulo"/>
+	<xs:element name="contenido" type="contenido"/>
+	<xs:element name="fecha" type="xs:date"/>
+	
+	<xs:element name="idCategoria" type="xs:integer"/>
+	<xs:element name="idProfesor" type="xs:integer"/>
+	
+	<xs:element name="idPublicacion" type="xs:integer"/>
+	<xs:element name="idAlumno" type="xs:integer"/>
+	<xs:element name="calificacion" type="xs:integer"/>
+    
+    <xs:element name="idCreador" type="xs:integer"/>
+    <xs:element name="tipoCreador" type="xs:string"/>
+</xs:schema>
