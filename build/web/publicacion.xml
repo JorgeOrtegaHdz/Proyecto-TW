@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proyecto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validadorPublicacion.xsd">
+  <Publicacion>
+    <idPublicacion>1</idPublicacion>
+    <titulo>Hola Mundo</titulo>
+    <contenido>Lo mejor de la vida es programar un Hola Mundo en cualquier lenguaje de programacion</contenido>
+    <fecha>2016-01-02</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>1</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>2</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>2</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>3</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>3</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>4</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>4</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>5</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>5</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>6</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>2</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>6</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>7</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>2</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>7</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>8</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>2</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>8</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>9</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>2</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>9</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>10</idPublicacion>
+    <titulo>Nexus Bueno o Malo?</titulo>
+    <contenido>Ahora trataremos un tema muy adecuado para los amantes de la electronica. Como es tiempo de navidad ahora biene la temporada de comprar regalos asi que tenemos que elegir el mejor en este caso hablaremos de los celulares como el nexus, y esque este amiguito es uno de los mejores para los amantes de Android</contenido>
+    <fecha>2015-12-24</fecha>
+    <idCreador>2</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>10</idTema>
+    <calificacion>100</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>11</idPublicacion>
+    <titulo>RE: Definicion de inteligencia</titulo>
+    <contenido>zzz</contenido>
+    <fecha>2016-01-07</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>7</idTema>
+    <calificacion>0</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>12</idPublicacion>
+    <titulo>RE: Elaboración de PCB</titulo>
+    <contenido>as</contenido>
+    <fecha>2016-01-07</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>1</idTema>
+    <calificacion>0</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>13</idPublicacion>
+    <titulo>Hola!</titulo>
+    <contenido>Tuturu!</contenido>
+    <fecha>2016-01-07</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Alumno</tipoCreador>
+    <idTema>1</idTema>
+    <calificacion>0</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>14</idPublicacion>
+    <titulo>RE: Algoritmos de búsqueda</titulo>
+    <contenido>ASSA</contenido>
+    <fecha>2016-01-07</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+    <idTema>8</idTema>
+    <calificacion>0</calificacion>
+  </Publicacion>
+  <Publicacion>
+    <idPublicacion>15</idPublicacion>
+    <titulo>RE: Recursivo o Iterativo DFS</titulo>
+    <contenido>En mi opinión, es mejor emplear el método recursivo con un ciclo iterativo porque el método recursivo te permite realizar el backtracking de forma automática, de forma que la iteración realizada en cada ciclo recursivo ejecuta de forma óptima la búsqueda, mientras que el con el método iterativo puro, tendrías que manejar una pila de pendientes, empleando más memoria</contenido>
+    <fecha>2016-01-07</fecha>
+    <idCreador>1</idCreador>
+    <tipoCreador>Profesor</tipoCreador>
+    <idTema>12</idTema>
+    <calificacion>0</calificacion>
+  </Publicacion>
+</Proyecto>

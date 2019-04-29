@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:include schemaLocation="EstructurasGenerales.xsd"/>
+
+	<xs:element name="Proyecto" type="admi"/>
+	
+	<xs:complexType name="admi">
+		<xs:sequence>
+			<xs:element name="Administrador" minOccurs="1" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:group ref="datos"/>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

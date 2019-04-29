@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:simpleType name="idUsuario">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(\S|\d){8,30}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="pass">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(\d|\D){6,10}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="nombrePila">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(\D){3,45}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="titulo">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(\d|\D){5,45}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="contenido">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(\d|\D){30,}"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

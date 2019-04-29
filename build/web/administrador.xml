@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proyecto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="validadorAdmin.xsd">
+	<Administrador>
+		<identificador>1</identificador>
+		<idUsuario>JorgeAdmi</idUsuario>
+		<contraseña>123456</contraseña>
+		<nombre>JorgeOrtega</nombre>
+	</Administrador>
+	<Administrador>
+		<identificador>2</identificador>
+		<idUsuario>JoseAdmi</idUsuario>
+		<contraseña>12345789</contraseña>
+		<nombre>JoseCuevas</nombre>
+	</Administrador>
+</Proyecto>
